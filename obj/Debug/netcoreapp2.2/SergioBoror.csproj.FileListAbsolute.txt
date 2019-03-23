@@ -1,0 +1,11 @@
+C:\Users\Sergio Boror\Desktop\Kinal\PruebaTecnica\SergioBoror\bin\Debug\netcoreapp2.2\SergioBoror.deps.json
+C:\Users\Sergio Boror\Desktop\Kinal\PruebaTecnica\SergioBoror\bin\Debug\netcoreapp2.2\SergioBoror.runtimeconfig.json
+C:\Users\Sergio Boror\Desktop\Kinal\PruebaTecnica\SergioBoror\bin\Debug\netcoreapp2.2\SergioBoror.runtimeconfig.dev.json
+C:\Users\Sergio Boror\Desktop\Kinal\PruebaTecnica\SergioBoror\bin\Debug\netcoreapp2.2\SergioBoror.dll
+C:\Users\Sergio Boror\Desktop\Kinal\PruebaTecnica\SergioBoror\bin\Debug\netcoreapp2.2\SergioBoror.pdb
+C:\Users\Sergio Boror\Desktop\Kinal\PruebaTecnica\SergioBoror\obj\Debug\netcoreapp2.2\SergioBoror.csprojAssemblyReference.cache
+C:\Users\Sergio Boror\Desktop\Kinal\PruebaTecnica\SergioBoror\obj\Debug\netcoreapp2.2\SergioBoror.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Boror\Desktop\Kinal\PruebaTecnica\SergioBoror\obj\Debug\netcoreapp2.2\SergioBoror.AssemblyInfoInputs.cache
+C:\Users\Sergio Boror\Desktop\Kinal\PruebaTecnica\SergioBoror\obj\Debug\netcoreapp2.2\SergioBoror.AssemblyInfo.cs
+C:\Users\Sergio Boror\Desktop\Kinal\PruebaTecnica\SergioBoror\obj\Debug\netcoreapp2.2\SergioBoror.dll
+C:\Users\Sergio Boror\Desktop\Kinal\PruebaTecnica\SergioBoror\obj\Debug\netcoreapp2.2\SergioBoror.pdb
